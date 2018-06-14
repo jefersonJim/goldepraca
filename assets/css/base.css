@@ -1,0 +1,16 @@
+.header{
+	margin-top: 65px;
+	width: 100%;
+	height: 200px;
+	background: #ccc;
+}
+#conteudo{ 
+	margin-top: 65px; 
+}
+
+.bt_header{
+	float:right;
+}
+.active{
+	border: 2px solid green;
+}
